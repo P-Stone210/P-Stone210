@@ -10,16 +10,12 @@
   - [DNS Sink using Pihole]()
 
 
-<h2>📺Socials </h2>
+<h2>📺Connect on linkedin </h2>
+<img align="left" alt="Linkedin | Linkedin width"20px" src=https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png />
 
-- [CompTIA A+ Certification]()
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+www.linkedin.com/in/peter-stone-896a99387
 
-<h2> 🤳Certifications:</h2>
+<h2> 📜Certifications:</h2>
 
 [<img align="left" alt="CompTIA A+ | A+" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />][A+]
 [<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />][Network+]
