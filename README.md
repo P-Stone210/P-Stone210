@@ -10,7 +10,8 @@
   - [DNS Sink using Pihole]()
 
 
-<h2>📺Certifications</h2>
+<h2>📺Socials </h2>
+
 - [CompTIA A+ Certification]()
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -18,19 +19,18 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳Certifications:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CompTIA A+ | A+" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />][A+]
+<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />
+<img align="left" alt="CompTIA Security+ | Security+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-security-ce-certification.png" />
 
-[twitter]: 
+[A+]: https://www.credly.com/earner/earned/badge/a213ef6c-71f6-4f9d-841f-cf5a1cfed8f3 
 [youtube]: 
 [instagram]: 
 [linkedin]: 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Redarrow210/Redarrow210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
