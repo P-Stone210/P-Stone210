@@ -11,7 +11,7 @@
 
 
 <h2>📺Connect on linkedin </h2>
-<img align="left" alt="Linkedin | Linkedin width"20px" src=https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png />
+[<img align="left" alt="Linkedin | A+" width="100px" src=][A+]
 
 www.linkedin.com/in/peter-stone-896a99387
 
