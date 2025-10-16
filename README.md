@@ -22,13 +22,13 @@
 <h2> 🤳Certifications:</h2>
 
 [<img align="left" alt="CompTIA A+ | A+" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />][A+]
-<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />
-<img align="left" alt="CompTIA Security+ | Security+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-security-ce-certification.png" />
+[<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />][Network+]
+[<img align="left" alt="CompTIA Security+ | Security+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-security-ce-certification.png" />][Security+]
 
 [A+]: https://www.credly.com/earner/earned/badge/a213ef6c-71f6-4f9d-841f-cf5a1cfed8f3 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
+[Network+]: https://www.credly.com/earner/earned/badge/b01b6c84-31d4-4478-8f5c-2b59e2aee9b7
+[Security+]: https://www.credly.com/earner/earned/badge/9e4858fe-b07c-4b8a-8b71-9f6c68a2a12d
+
 <!--
 **Redarrow210/Redarrow210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
