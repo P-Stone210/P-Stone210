@@ -3,7 +3,7 @@
 <h2>👨‍💻 Networking and Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Homelab]()
+  - [Active Directory Homelab](https://github.com/Redarrow210/ActiveDirectoryHomeLab/edit/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
 - <b>DNS Sink</b>
