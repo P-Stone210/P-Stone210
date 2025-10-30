@@ -15,11 +15,13 @@
 
 <h2> 📜 Certifications:</h2>
 
-[<img align="left" alt="CompTIA A+ | A+" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />]
-[<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />]
+[<img align="left" alt="CompTIA A+ | A+" width="100px" src=https://github.com/Redarrow210/Redarrow210/blob/main/comptia-a-ce-certification.1.png />][A+]
+[<img align="left" alt="CompTIA Network+ | Network+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-network-ce-certification.1.png" />][Network+]
 [<img align="left" alt="CompTIA Security+ | Security+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-security-ce-certification.png" />]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="150px" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Logo.wine.png" />][linkedin]
 
+[A+]: https://www.credly.com/badges/9e4858fe-b07c-4b8a-8b71-9f6c68a2a12d/public_url
+[Network+]: https://www.credly.com/badges/b01b6c84-31d4-4478-8f5c-2b59e2aee9b7/public_url
 [linkedin]: https://www.linkedin.com/in/peter-stone-896a99387/?trk=contact-info
 
 
