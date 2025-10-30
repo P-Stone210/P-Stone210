@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking and Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice </b>
   - [Active Directory Homelab](https://github.com/Redarrow210/ActiveDirectoryHomeLab)
 - <b></b>
   - [Image Analysis Middleware]() <b><i></b></i>
