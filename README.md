@@ -20,10 +20,11 @@
 [<img align="left" alt="CompTIA Security+ | Security+" width="100px" src="https://github.com/Redarrow210/Redarrow210/blob/main/comptia-security-ce-certification.png" />][Security+]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="150px" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Logo.wine.png" />][linkedin]
 
-[A+]: https://www.credly.com/earner/earned/badge/a213ef6c-71f6-4f9d-841f-cf5a1cfed8f3 
+[A+]:  
 [Network+]: https://www.credly.com/earner/earned/badge/b01b6c84-31d4-4478-8f5c-2b59e2aee9b7
 [Security+]: https://www.credly.com/earner/earned/badge/9e4858fe-b07c-4b8a-8b71-9f6c68a2a12d
 [linkedin]: https://www.linkedin.com/in/peter-stone-896a99387/?trk=contact-info
+
 
 <!--
 **Redarrow210/Redarrow210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
