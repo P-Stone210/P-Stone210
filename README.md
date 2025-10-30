@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
 - <b>DNS Sink</b>
-  - [DNS Sink using Pihole]()
+  - [DNS Sink using Pihole](https://github.com/P-Stone210/DNS-sink-using-Pihole/blob/main/README.md)
 
 <h2>📺Connect on linkedin</h2>
 
