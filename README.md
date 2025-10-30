@@ -4,8 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Homelab](https://github.com/Redarrow210/ActiveDirectoryHomeLab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+- <b></b>
+  - [Image Analysis Middleware]() <b><i></b></i>
 - <b>DNS Sink</b>
   - [DNS Sink using Pihole](https://github.com/P-Stone210/DNS-sink-using-Pihole/blob/main/README.md)
 
